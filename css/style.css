@@ -1,0 +1,11 @@
+@import url("components/container.css")
+
+body {
+	font-family: courrier;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: times;
+    font-weight: bold;
+}
